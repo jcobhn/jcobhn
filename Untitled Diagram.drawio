@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T17:03:53.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.2" etag="UHZ7A2BS8fmOwz74RWEy" type="github"><diagram id="K3HjtqoxPJ0Ie2l4iLUF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-29T01:27:32.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iQmdsR87Ll9p8ARJrS5l" version="20.0.3" type="github">
+  <diagram id="K3HjtqoxPJ0Ie2l4iLUF" name="Page-1">
+    <mxGraphModel dx="2523" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JY1hPa6wdj1zNyFiTPDM-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-180" width="970" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="JY1hPa6wdj1zNyFiTPDM-1" value="COMPETIDORES&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Agencias tradicionales&lt;br&gt;American Express&lt;br&gt;Carlson Wagonlit Travel&lt;br&gt;Elong&lt;br&gt;Taobao&lt;br&gt;&lt;/span&gt;" style="rounded;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JY1hPa6wdj1zNyFiTPDM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=6;" edge="1" parent="1" source="JY1hPa6wdj1zNyFiTPDM-2" target="JY1hPa6wdj1zNyFiTPDM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JY1hPa6wdj1zNyFiTPDM-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=3;dashed=1;" edge="1" parent="1" source="JY1hPa6wdj1zNyFiTPDM-2" target="JY1hPa6wdj1zNyFiTPDM-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="-150" />
+              <mxPoint x="840" y="-150" />
+              <mxPoint x="840" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JY1hPa6wdj1zNyFiTPDM-2" value="PROVEEDORES&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Aerolineas&lt;br&gt;Agencias viaje&lt;br&gt;Ferrocarriles&lt;br&gt;Hoteles&lt;br&gt;Bancos&lt;br&gt;Agencias Boletos&lt;br&gt;Restaurantes&lt;/span&gt;" style="rounded;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="160" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JY1hPa6wdj1zNyFiTPDM-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;strokeWidth=6;" edge="1" parent="1" source="JY1hPa6wdj1zNyFiTPDM-3" target="JY1hPa6wdj1zNyFiTPDM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JY1hPa6wdj1zNyFiTPDM-3" value="SUSTITUTOS&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Agencias viajes&lt;br&gt;Aerolineas&lt;br&gt;Plataforma web&lt;br&gt;Hoteles&lt;/span&gt;" style="rounded;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JY1hPa6wdj1zNyFiTPDM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=6;" edge="1" parent="1" source="JY1hPa6wdj1zNyFiTPDM-4" target="JY1hPa6wdj1zNyFiTPDM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JY1hPa6wdj1zNyFiTPDM-4" value="COMPRADORES&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Viajeros nacionales&lt;br&gt;Viajeros Internacionales&lt;br&gt;Corporaciones&lt;br&gt;Grandes Industrias&lt;br&gt;PYMES&lt;/span&gt;" style="rounded;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JY1hPa6wdj1zNyFiTPDM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;strokeWidth=6;" edge="1" parent="1" source="JY1hPa6wdj1zNyFiTPDM-5" target="JY1hPa6wdj1zNyFiTPDM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JY1hPa6wdj1zNyFiTPDM-5" value="NUEVAS INCORPORACIONES&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Plataforma&lt;br&gt;Call Center&lt;br&gt;Analitica&lt;br&gt;Tecnología&lt;br&gt;Know How&lt;br&gt;Inversión en SAC&lt;br&gt;&lt;/span&gt;" style="rounded;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-80" width="240" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
