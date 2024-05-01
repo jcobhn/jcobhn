@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T17:32:54.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="GGcp4_wi8xNRph8Lsmz1" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-01T17:35:08.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="uHWHRzc9Z2X-6xDyBw0d" version="24.3.1" type="github">
   <diagram name="Page-1" id="E_Zq4aiAuoUPli4xF1aR">
-    <mxGraphModel dx="1325" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1095" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,17 +213,14 @@
         <mxCell id="pa58yBCoyjydbq_0cEsw-95" value="Meeting Management" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="45" y="5330" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pa58yBCoyjydbq_0cEsw-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="71" width="1200" height="449" as="geometry" />
+        <mxCell id="pa58yBCoyjydbq_0cEsw-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="71" width="1120" height="449" as="geometry" />
         </mxCell>
         <mxCell id="pa58yBCoyjydbq_0cEsw-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pa58yBCoyjydbq_0cEsw-103" target="pa58yBCoyjydbq_0cEsw-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pa58yBCoyjydbq_0cEsw-103" value="Project Charter" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="1800" y="121" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pa58yBCoyjydbq_0cEsw-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pa58yBCoyjydbq_0cEsw-106" target="pa58yBCoyjydbq_0cEsw-121">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pa58yBCoyjydbq_0cEsw-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pa58yBCoyjydbq_0cEsw-106" target="pa58yBCoyjydbq_0cEsw-122">
           <mxGeometry relative="1" as="geometry" />
@@ -250,16 +247,13 @@
           <mxGeometry x="1800" y="241" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pa58yBCoyjydbq_0cEsw-119" value="Project&lt;div&gt;Documents&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontStyle=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="351" width="120" height="80" as="geometry" />
+          <mxGeometry x="2320" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pa58yBCoyjydbq_0cEsw-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pa58yBCoyjydbq_0cEsw-121" target="pa58yBCoyjydbq_0cEsw-119">
+        <mxCell id="pa58yBCoyjydbq_0cEsw-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pa58yBCoyjydbq_0cEsw-122" target="pa58yBCoyjydbq_0cEsw-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pa58yBCoyjydbq_0cEsw-121" value="Assumptions Log" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;spacingLeft=10;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2280" y="291" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="pa58yBCoyjydbq_0cEsw-122" value="Project Charter" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;spacingLeft=10;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2400" y="201" width="160" height="20" as="geometry" />
+        <mxCell id="pa58yBCoyjydbq_0cEsw-122" value="Project Management Plan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;spacingLeft=10;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="201" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pa58yBCoyjydbq_0cEsw-123" value="Project Management Plan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1420" y="480" width="550" height="30" as="geometry" />
