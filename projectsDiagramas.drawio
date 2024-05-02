@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T03:48:18.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="48VLGs5zCB4RvkDfXsIn" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T05:11:24.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="QVuEyT6M0ABMf-ALNXcd" version="24.3.1" type="github">
   <diagram name="Page-1" id="E_Zq4aiAuoUPli4xF1aR">
     <mxGraphModel dx="3638" dy="2132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -970,8 +970,8 @@
         <mxCell id="pa58yBCoyjydbq_0cEsw-514" value="Direct and Manage Project Work" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3150" y="971" width="550" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pa58yBCoyjydbq_0cEsw-515" value="Manage Project Knowledge" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="5240" y="1209.5" width="550" height="30" as="geometry" />
+        <mxCell id="pa58yBCoyjydbq_0cEsw-515" value="Monitor and Control Project Work" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="5240" y="1209.5" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pa58yBCoyjydbq_0cEsw-517" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pa58yBCoyjydbq_0cEsw-520" target="pa58yBCoyjydbq_0cEsw-543">
           <mxGeometry relative="1" as="geometry" />
